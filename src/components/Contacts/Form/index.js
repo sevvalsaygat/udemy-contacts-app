@@ -46,7 +46,7 @@ function Form({ addContact, contacts }) {
       </div>
 
       <br />
-      <div>
+      <div className='btn'>
         <button>Add</button>
       </div>
     </form>
